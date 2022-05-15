@@ -25,4 +25,4 @@ Sun:*Summary* && *Plan*
 7. 张传奇   
     - AC:0
 8. 李武骏   
-    - AC:0
+    - AC:1
