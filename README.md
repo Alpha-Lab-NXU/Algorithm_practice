@@ -33,4 +33,4 @@ Sun:*Summary* && *Plan*
 11. 王亮   
     - AC:0
 12. 张铭杰   
-    - AC:0
+    - AC:2
